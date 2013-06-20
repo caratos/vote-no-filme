@@ -1,0 +1,17 @@
+body{
+        background-color: #217D33; /*#AEB5AE*/
+        font:bold 1em/1.2em "Century Gothic","Trebuchet MS",Arial,Helvetica,sans-serif;
+        color: #1A6329; /*#FAFF73*/
+}
+#header{
+        background: url(../images/tape.jpg) top left repeat-x;
+        padding: 60px 60px 0px 60px;
+}
+#footer{
+}
+#mainContent{
+        position: relative;
+        width: 1200px;
+        margin: auto;
+        background-color: white;
+}
